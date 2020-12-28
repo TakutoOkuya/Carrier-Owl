@@ -1,8 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cs'
+subject: 'q-bio'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        Nucreotide excision: 3
+        DNA damage repair: 3
+        DNA damage: 2
+        smoking: 2
+        cigarette: 2
+        tobacco: 2
+        
